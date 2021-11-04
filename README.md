@@ -81,7 +81,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - React
 
 ## Live Demo
-[Live Demo Link](https://lilyfrancis-react-to-do-list.netlify.app/)
+[Live Demo Link](https://lilyfrancis.netlify.app/)
 
 ## Author
 👤 **Lilian Francis**
